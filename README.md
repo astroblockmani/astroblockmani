@@ -7,7 +7,7 @@ I am also a blockchain developer with 3 years experience with Solidity. I have b
 
 Talk to me about blockchain! ###
 
-### Key Skills:
+**Key Skills:**
 Front End: JavaScript including frameworks (React, Vue, Angular), web3.js, ethers.js, Typescript, Next.js, Scss/CSS, React Native, Tailwind, Material UI
 
 Back End: Solidity, Express.js, node.js
@@ -16,9 +16,7 @@ Blockchain tech preferences: Solidity & EVM, Hardhat or Truffle, Ganache, Alchem
 
 Knowledge of: DeFi, NFTs, Ethereum Improvement Proposals including EIP20, EIP 721 & EIP1155, GameFi, some Smart Contract Security.
 
-Find me on LinkedIn 
-
-<span style="color:blue">some *blue* text</span>.
+Find me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
 
 
 <!--
