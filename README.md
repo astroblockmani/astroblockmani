@@ -1,4 +1,4 @@
-### Hi there! I'm <p style="color:blue">Fizaan 'Mani' Rasool </p> 👋
+### Hi there! <span style="color: green"> I'm Fizaan 'Mani' Rasool </span>👋
 ### I'm a software developer with ten years experience across a number of technologies!
 ### I predominantly work Front End with a preference for JavaScript frameworks, particularly React ⚛️
 ### I am also a blockchain developer with 3 years experience with Solidity. I have built and deployed a number of dApps and have a keen interest in DeFi and NFTs.
