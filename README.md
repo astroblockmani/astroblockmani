@@ -7,6 +7,7 @@ I am also a blockchain developer with 3 years experience with Solidity. I have b
 **Actively looking for new opportunities. Please contact me at <fizaan.rasool@icloud.com> if my profile is of interest. 😊**
 
 **Key Skills:**
+
 Front End: JavaScript including frameworks (React, Vue, Angular), web3.js, ethers.js, Typescript, Next.js, Scss/CSS, React Native, Tailwind, Material UI
 
 Back End: Solidity, Express.js, node.js
@@ -15,9 +16,10 @@ Blockchain tech preferences: Solidity & EVM, Hardhat or Truffle, Ganache, Alchem
 
 Knowledge of: DeFi, NFTs, Ethereum Improvement Proposals including EIP20, EIP 721 & EIP1155, GameFi and some Smart Contract Security/Auditing.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
+~~Find~~ me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
 
-<span style="color:red">some *red* text</span>
+s { text-decoration:none; } //strike-through
+s { color: green }
 <!--
 **astroblockmani/astroblockmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
