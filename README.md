@@ -1,4 +1,5 @@
-Hi there! I'm **Fizaan** 'Mani' **Rasool**👋
+Hi there! I'm **Fizaan** 'Mani' **Rasool** 👋 
+
 I'm a software developer with ten years experience across a number of technologies!
 I predominantly work Front End with a preference for JavaScript frameworks, particularly React ⚛️
 I am also a blockchain developer with 3 years experience with Solidity. I have built and deployed a number of dApps and have a keen interest in DeFi and NFTs.
