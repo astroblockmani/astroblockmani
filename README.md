@@ -17,7 +17,7 @@ Knowledge of: DeFi, NFTs, Ethereum Improvement Proposals including EIP20, EIP 72
 
 Find me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:red">some *red* text</span>
 <!--
 **astroblockmani/astroblockmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
