@@ -16,10 +16,8 @@ Blockchain tech preferences: Solidity & EVM, Hardhat or Truffle, Ganache, Alchem
 
 Knowledge of: DeFi, NFTs, Ethereum Improvement Proposals including EIP20, EIP 721 & EIP1155, GameFi and some Smart Contract Security/Auditing.
 
-~~Find~~ me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
+Find me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
 
-s { text-decoration:none; } //strike-through
-s { color: green }
 <!--
 **astroblockmani/astroblockmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
