@@ -1,4 +1,4 @@
-### Hi there! <span style="color: green"> I'm Fizaan 'Mani' Rasool </span>👋
+Hi there! I'm Fizaan 'Mani' Rasool👋
 ### I'm a software developer with ten years experience across a number of technologies!
 ### I predominantly work Front End with a preference for JavaScript frameworks, particularly React ⚛️
 ### I am also a blockchain developer with 3 years experience with Solidity. I have built and deployed a number of dApps and have a keen interest in DeFi and NFTs.
@@ -15,6 +15,8 @@
 ### Blockchain tech preferences: Solidity & EVM, Hardhat or Truffle, Ganache, Alchemy or Infura, web3.js & ethers.js, IPFS & Pinata, OpenZeppelin.
 
 ### Knowledge of: DeFi, NFTs, Ethereum Improvement Proposals including EIP20, EIP 721 & EIP1155, GameFi, some Smart Contract Security.
+
+
 <!--
 **astroblockmani/astroblockmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
