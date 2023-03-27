@@ -1,6 +1,6 @@
 Hi there! I'm **Fizaan Rasool** 👋 
 
-I'm a Blockchain Developer Principal with over ten years experience across a number of technologies.
+I'm a Blockchain Development Principal with over ten years experience.
 I predominantly with blockchain technologies focusing on enterprise level development. Clients I have worked with include Anglo American, British Airways, Newcastle United, IKEA and NHS.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/fizaan-rasool/).
